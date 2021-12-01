@@ -1,26 +1,38 @@
-* [备战面试](./docs/a-1备战面试.md)
-
-* Java
-
-  * [Java基础](./docs/b-1面试题总结-Java基础.md)
-  * [Java集合](./docs/b-2Java集合.md)
-  * [Java多线程](./docs/b-3Java多线程.md)
-  * [jvm](./docs/b-4jvm.md)
-
-* 计算机基础
-
-  * [计算机网络](./docs/c-1计算机网络.md)
-  * [数据结构](./docs/c-2数据结构.md)
-  * [算法](./docs/c-3算法.md)
-  * [操作系统](./docs/c-4操作系统.md)
-
-* 数据库
-
-  * Mysql
-    * [第00章_写在前面](./notes/Database/MySQL/第00章_写在前面.md)
-    * [第01章_数据库概述](./notes/Database/MySQL/第01章_数据库概述.md)
-
-  
-
-  
-
+* [首页](/)
+* .idea
+  * inspectionProfiles
+* docs
+- [docs\a-1备战面试](.\docs\a-1备战面试.md)
+- [docs\b-1面试题总结-Java基础](.\docs\b-1面试题总结-Java基础.md)
+- [docs\b-2Java集合](.\docs\b-2Java集合.md)
+- [docs\b-3Java多线程](.\docs\b-3Java多线程.md)
+- [docs\b-4jvm](.\docs\b-4jvm.md)
+- [docs\c-1计算机网络](.\docs\c-1计算机网络.md)
+- [docs\c-2数据结构](.\docs\c-2数据结构.md)
+- [docs\c-3算法](.\docs\c-3算法.md)
+- [docs\c-4操作系统](.\docs\c-4操作系统.md)
+- [docs\how-to-use-docsify](.\docs\how-to-use-docsify.md)
+* notes
+  * Database
+    * MySQL
+      * images
+- [notes\Database\MySQL\第00章_写在前面](.\notes\Database\MySQL\第00章_写在前面.md)
+- [notes\Database\MySQL\第00章_写在最后](.\notes\Database\MySQL\第00章_写在最后.md)
+- [notes\Database\MySQL\第01章_数据库概述](.\notes\Database\MySQL\第01章_数据库概述.md)
+- [notes\Database\MySQL\第02章_MySQL环境搭建](.\notes\Database\MySQL\第02章_MySQL环境搭建.md)
+- [notes\Database\MySQL\第03章_基本的SELECT语句](.\notes\Database\MySQL\第03章_基本的SELECT语句.md)
+- [notes\Database\MySQL\第04章_运算符](.\notes\Database\MySQL\第04章_运算符.md)
+- [notes\Database\MySQL\第05章_排序与分页](.\notes\Database\MySQL\第05章_排序与分页.md)
+- [notes\Database\MySQL\第06章_多表查询](.\notes\Database\MySQL\第06章_多表查询.md)
+- [notes\Database\MySQL\第07章_单行函数](.\notes\Database\MySQL\第07章_单行函数.md)
+- [notes\Database\MySQL\第08章_聚合函数](.\notes\Database\MySQL\第08章_聚合函数.md)
+- [notes\Database\MySQL\第09章_子查询](.\notes\Database\MySQL\第09章_子查询.md)
+- [notes\Database\MySQL\第10章_创建和管理表](.\notes\Database\MySQL\第10章_创建和管理表.md)
+- [notes\Database\MySQL\第11章_数据处理之增删改](.\notes\Database\MySQL\第11章_数据处理之增删改.md)
+- [notes\Database\MySQL\第12章_MySQL数据类型精讲](.\notes\Database\MySQL\第12章_MySQL数据类型精讲.md)
+- [notes\Database\MySQL\第13章_约束](.\notes\Database\MySQL\第13章_约束.md)
+- [notes\Database\MySQL\第14章_视图](.\notes\Database\MySQL\第14章_视图.md)
+- [notes\Database\MySQL\第15章_存储过程与函数](.\notes\Database\MySQL\第15章_存储过程与函数.md)
+- [notes\Database\MySQL\第16章_变量、流程控制与游标](.\notes\Database\MySQL\第16章_变量、流程控制与游标.md)
+- [notes\Database\MySQL\第17章_触发器](.\notes\Database\MySQL\第17章_触发器.md)
+- [notes\Database\MySQL\第18章_MySQL8其它新特性](.\notes\Database\MySQL\第18章_MySQL8其它新特性.md)
